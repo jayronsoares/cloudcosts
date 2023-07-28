@@ -62,10 +62,4 @@ The script performs the following tasks:
 
 - Ensure that the PostgreSQL database tables are set up and accessible with the provided credentials.
 
-- This script serves as a foundation for AWS cost analysis and optimization. Further data analysis and cost reduction actions may require additional customizations based on your organization's specific requirements.
-
-- Always test the code in a development environment before deploying to production.
-
-- For improved security, store sensitive credentials as environment variables and use IAM roles with appropriate permissions for AWS access.
-
 Feel free to customize and extend the script as needed to suit your infrastructure and cost optimization needs.
